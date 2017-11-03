@@ -1,0 +1,45 @@
+//
+//  YAYIMemo-pcheader.pch
+//  YAYIMemo
+//
+//  Created by hxp on 17/8/14.
+//  Copyright © 2017年 achego. All rights reserved.
+//
+
+#ifndef YAYIMemo_pcheader_pch
+#define YAYIMemo_pcheader_pch
+
+#import "YAYIMemo.h"
+#import "YAYIMemoConst.h"
+#import "UIView+VR.h"
+#import "UIImage+VR.h"
+#import "UIColor+YA.h"
+#import "YAHttpBase.h"
+#import "YANavigationController.h"
+#import "AliyunOSSObject.h"
+#import "YAFMDBDatabases.h"
+#import "NSString+YA.h"
+#import "UITableView+EmptyData.h"
+
+#pragma mark 第三方框架
+#import "UMMobClick/MobClick.h"
+#import "MBProgressHUD.h"
+#import <AliyunOSSiOS/OSSClient.h>
+#import "SVProgressHUD.h"
+#import "MJRefresh.h"
+#import "Masonry.h"
+#import "AFNetworking.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+#import "PYPhotoBrowser.h"
+#import "MMDrawerController.h"
+#import "UIViewController+MMDrawerController.h"
+#import "JZNavigationExtension.h"
+#import "UITextView+Placeholder.h"
+#import "UIImageView+CornerRadius.h"
+#import "IQKeyboardManager.h"
+#import "Chameleon.h"
+#import "TZImagePickerController.h"
+#import "UIViewController+LLAdd.h"
+#import "POP.h"
+
+#endif 
